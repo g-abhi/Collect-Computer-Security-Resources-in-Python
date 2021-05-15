@@ -1,0 +1,154 @@
+Introduction,https://cs161.org/assets/lectures/lec01.pdf
+"Memory Safety notes, section 1",https://cs161.org/assets/notes/memory-safety.pdf
+"C, x86, and GDB cheatsheet",https://cs161.org/assets/projects/1/cheatsheet.pdf
+Security Principles,https://cs161.org/assets/lectures/lec02.pdf
+Security Principles notes,https://cs161.org/assets/notes/security-principles.pdf
+Project 1 released,https://cs161.org/assets/projects/1/project1-spec.pdf
+"61C Review, Security Principles",https://cs161.org/assets/sections/01-questions.pdf
+01-solutions,https://cs161.org/assets/sections/01-solutions.pdf
+Buffer Overflows,https://cs161.org/assets/lectures/lec03.pdf
+"Memory Safety notes, section 2",https://cs161.org/assets/notes/memory-safety.pdf
+Buffer Overflow Defenses,https://cs161.org/assets/lectures/lec04.pdf
+"Memory Safety notes, section 3",https://cs161.org/assets/notes/memory-safety.pdf
+Optional Lab 1 released,https://cs161.org/assets/labs/padding-oracle.zip
+Memory Safety,https://cs161.org/assets/sections/02-questions.pdf
+02-solutions,https://cs161.org/assets/sections/02-solutions.pdf
+IND-CPA + One-Time Pads + Block Ciphers + Symmetric Key Encryption,https://cs161.org/assets/lectures/lec05.pdf
+"Cryptography notes, sections 1-3",https://cs161.org/assets/notes/cryptography.pdf
+Symmetric Key Encryption (cont.) + Hashing + Integrity (MACs) + Pseudorandom Generators,https://cs161.org/assets/lectures/lec06.pdf
+"Cryptography notes, sections 4-6",https://cs161.org/assets/notes/cryptography.pdf
+AES Demo,https://cs161.org/assets/sections/AES_demo.ipynb
+Pseudorandom Generators (cont.) + Public Key Exchange,https://cs161.org/assets/lectures/lec07.pdf
+"Cryptography notes, section 7",https://cs161.org/assets/notes/cryptography.pdf
+Symmetric-Key Cryptography,https://cs161.org/assets/sections/03-questions.pdf
+03-solutions,https://cs161.org/assets/sections/03-solutions.pdf
+Exam Prep,https://cs161.org/assets/sections/03-examprep-questions.pdf
+03-examprep-solutions,https://cs161.org/assets/sections/03-examprep-solutions.pdf
+Public Key Encryption + Digital Signatures,https://cs161.org/assets/lectures/lec08.pdf
+"Cryptography notes, sections 8-9",https://cs161.org/assets/notes/cryptography.pdf
+Certificates,https://cs161.org/assets/lectures/lec09.pdf
+"Cryptography notes, section 10",https://cs161.org/assets/notes/cryptography.pdf
+Asymmetric Cryptography,https://cs161.org/assets/sections/04-questions.pdf
+04-solutions,https://cs161.org/assets/sections/04-solutions.pdf
+Password Hashing + Blockchain,https://cs161.org/assets/lectures/lec10.pdf
+"Cryptography notes, sections 11-12",https://cs161.org/assets/notes/cryptography.pdf
+Project 1 due (11:59pm PT),https://cs161.org/assets/projects/1/project1-spec.pdf
+Public Key Cryptography,https://cs161.org/assets/sections/05-questions.pdf
+05-solutions,https://cs161.org/assets/sections/05-solutions.pdf
+Signal + Tor,https://cs161.org/assets/lectures/lec11.pdf
+Command Injection + SQL Injection,https://cs161.org/assets/lectures/lec12.pdf
+"Web notes, section 5",https://cs161.org/assets/notes/web.pdf
+Squigler demo,https://cs161.org/assets/squigler.zip
+Intro to Web + Cookies,https://cs161.org/assets/lectures/lec13.pdf
+"Web notes, sections 1-4, 7",https://cs161.org/assets/notes/web.pdf
+Cross-Site Request Forgery (CSRF) + Cross-Site Scripting (XSS),https://cs161.org/assets/lectures/lec14.pdf
+"Web notes, sections 6, 8",https://cs161.org/assets/notes/web.pdf
+XSS (continued) + UI Attacks,https://cs161.org/assets/lectures/lec15.pdf
+"Web notes, section 6",https://cs161.org/assets/notes/web.pdf
+SQL Injection and Cookies,https://cs161.org/assets/sections/07-questions.pdf
+07-solutions,https://cs161.org/assets/sections/07-solutions.pdf
+Captchas + Networking Background,https://cs161.org/assets/lectures/lec16.pdf
+"Networking notes, section 1",https://cs161.org/assets/notes/networking.pdf
+Low-Level Network Attacks,https://cs161.org/assets/lectures/lec17.pdf
+"Networking notes, sections 2-4",https://cs161.org/assets/notes/networking.pdf
+CSRF and XSS,https://cs161.org/assets/sections/08-questions.pdf
+08-solutions,https://cs161.org/assets/sections/08-solutions.pdf
+Layer 3 (IP) + BGP + DNS,https://cs161.org/assets/lectures/lec18.pdf
+"Networking notes, sections 5, 8-9",https://cs161.org/assets/notes/networking.pdf
+Optional Lab 1 due (11:59pm PT),https://cs161.org/assets/labs/padding-oracle.zip
+TCP + TLS,https://cs161.org/assets/lectures/lec19.pdf
+"Networking notes, sections 6-7",https://cs161.org/assets/notes/networking.pdf
+UI Based Attacks and Privacy,https://cs161.org/assets/sections/09-questions.pdf
+09-solutions,https://cs161.org/assets/sections/09-solutions.pdf
+TLS (continued) + Denial of Service,https://cs161.org/assets/lectures/lec20.pdf
+"Networking notes, section 7",https://cs161.org/assets/notes/networking.pdf
+Optional Lab 2 released,https://cs161.org/assets/labs/lab2.pdf
+TLS and TCP,https://cs161.org/assets/sections/10-questions.pdf
+10-solutions,https://cs161.org/assets/sections/10-solutions.pdf
+DNSSEC,https://cs161.org/assets/lectures/lec21.pdf
+"Networking notes, section 10",https://cs161.org/assets/notes/networking.pdf
+Intrusion Detection,https://cs161.org/assets/lectures/lec22.pdf
+DNS,https://cs161.org/assets/sections/11-questions.pdf
+11-solutions,https://cs161.org/assets/sections/11-solutions.pdf
+Abusing Intrusion Detection,https://cs161.org/assets/lectures/lec23.pdf
+Network Censorship + Malware,https://cs161.org/assets/lectures/lec24.pdf
+Malcode + Special Topics - Boeing 737-MAX,https://cs161.org/assets/lectures/lec25.pdf
+Intrusion Detection,https://cs161.org/assets/sections/12-questions.pdf
+12-solutions,https://cs161.org/assets/sections/12-solutions.pdf
+Special Topics - Quantum + Nukes + Side channels,https://cs161.org/assets/lectures/lec26.pdf
+Special Topics - Personal Security,https://cs161.org/assets/lectures/lec27.pdf
+Web Security and Special Topics,https://cs161.org/assets/sections/13-questions.pdf
+13-solutions,https://cs161.org/assets/sections/13-solutions.pdf
+Optional Lab 2 due (11:59pm PT),https://cs161.org/assets/labs/lab2.pdf
+"C, x86, and GDB cheatsheet",https://cs161.org/assets/projects/1/cheatsheet.pdf
+Project 1 released,https://cs161.org/assets/projects/1/project1-spec.pdf
+Project 1 due (11:59pm PT),https://cs161.org/assets/projects/1/project1-spec.pdf
+Project 2 released,https://cs161.org/proj2
+Project 2 design doc draft due (11:59pm PT),https://cs161.org/proj2
+Project 3 released,https://cs161.org/proj3
+Project 2 due (11:59pm PT),https://cs161.org/proj2
+Project 3 due (11:59pm PT),https://cs161.org/proj3
+Security principles,https://cs161.org/assets/notes/security-principles.pdf
+Memory Safety,https://cs161.org/assets/notes/memory-safety.pdf
+Cryptography,https://cs161.org/assets/notes/cryptography.pdf
+Web,https://cs161.org/assets/notes/web.pdf
+Networking,https://cs161.org/assets/notes/networking.pdf
+sp21mt,https://cs161.org/assets/exams/mt1/sp21mt.pdf
+sp21mtsolutions,https://cs161.org/assets/exams/mt1/sp21mtsolutions.pdf
+fa20mt,https://cs161.org/assets/exams/mt1/fa20mt.pdf
+fa20mtsolutions,https://cs161.org/assets/exams/mt1/fa20mtsolutions.pdf
+su20mt,https://cs161.org/assets/exams/mt1/su20mt.pdf
+su20mtsolutions,https://cs161.org/assets/exams/mt1/su20mtsolutions.pdf
+sp20mt1,https://cs161.org/assets/exams/mt1/sp20mt1.pdf
+sp20mt1solutions,https://cs161.org/assets/exams/mt1/sp20mt1solutions.pdf
+sp19mt1,https://cs161.org/assets/exams/mt1/sp19mt1.pdf
+sp19mt1solutions,https://cs161.org/assets/exams/mt1/sp19mt1solutions.pdf
+fa18mt1,https://cs161.org/assets/exams/mt1/fa18mt1.pdf
+fa18mt1solutions,https://cs161.org/assets/exams/mt1/fa18mt1solutions.pdf
+sp18mt1,https://cs161.org/assets/exams/mt1/sp18mt1.pdf
+sp18mt1solutions,https://cs161.org/assets/exams/mt1/sp18mt1solutions.pdf
+fa17mt1,https://cs161.org/assets/exams/mt1/fa17mt1.pdf
+fa17mt1solutions,https://cs161.org/assets/exams/mt1/fa17mt1solutions.pdf
+Question 5,https://cs161.org/assets/exams/mt1/fa17mt1q5.pdf
+sp17mt1,https://cs161.org/assets/exams/mt1/sp17mt1.pdf
+sp17mt1solutions,https://cs161.org/assets/exams/mt1/sp17mt1solutions.pdf
+fa16mt1,https://cs161.org/assets/exams/mt1/fa16mt1.pdf
+fa16mt1solutions,https://cs161.org/assets/exams/mt1/fa16mt1solutions.pdf
+sp16mt1,https://cs161.org/assets/exams/mt1/sp16mt1.pdf
+sp16mt1solutions,https://cs161.org/assets/exams/mt1/sp16mt1solutions.pdf
+sp20mt2,https://cs161.org/assets/exams/mt2/sp20mt2.pdf
+sp20mt2solutions,https://cs161.org/assets/exams/mt2/sp20mt2solutions.pdf
+sp19mt2,https://cs161.org/assets/exams/mt2/sp19mt2.pdf
+sp19mt2solutions,https://cs161.org/assets/exams/mt2/sp19mt2solutions.pdf
+fa18mt2,https://cs161.org/assets/exams/mt2/fa18mt2.pdf
+fa18mt2solutions,https://cs161.org/assets/exams/mt2/fa18mt2solutions.pdf
+sp18mt2,https://cs161.org/assets/exams/mt2/sp18mt2.pdf
+sp18mt2solutions,https://cs161.org/assets/exams/mt2/sp18mt2solutions.pdf
+fa17mt2,https://cs161.org/assets/exams/mt2/fa17mt2.pdf
+fa17mt2solutions,https://cs161.org/assets/exams/mt2/fa17mt2solutions.pdf
+sp17mt2,https://cs161.org/assets/exams/mt2/sp17mt2.pdf
+sp17mt2solutions,https://cs161.org/assets/exams/mt2/sp17mt2solutions.pdf
+fa16mt2,https://cs161.org/assets/exams/mt2/fa16mt2.pdf
+fa16mt2solutions,https://cs161.org/assets/exams/mt2/fa16mt2solutions.pdf
+sp16mt2,https://cs161.org/assets/exams/mt2/sp16mt2.pdf
+sp16mt2solutions,https://cs161.org/assets/exams/mt2/sp16mt2solutions.pdf
+fa20final,https://cs161.org/assets/exams/final/fa20final.pdf
+fa20finalsolutions,https://cs161.org/assets/exams/final/fa20finalsolutions.pdf
+su20final,https://cs161.org/assets/exams/final/su20final.pdf
+su20finalsolutions,https://cs161.org/assets/exams/final/su20finalsolutions.pdf
+sp20final,https://cs161.org/assets/exams/final/sp20final.pdf
+sp20finalsolutions,https://cs161.org/assets/exams/final/sp20finalsolutions.pdf
+sp19final,https://cs161.org/assets/exams/final/sp19final.pdf
+sp19finalsolutions,https://cs161.org/assets/exams/final/sp19finalsolutions.pdf
+fa18final,https://cs161.org/assets/exams/final/fa18final.pdf
+fa18finalsolutions,https://cs161.org/assets/exams/final/fa18finalsolutions.pdf
+sp18final,https://cs161.org/assets/exams/final/sp18final.pdf
+sp18finalsolutions,https://cs161.org/assets/exams/final/sp18finalsolutions.pdf
+fa17final,https://cs161.org/assets/exams/final/fa17final.pdf
+fa17finalsolutions,https://cs161.org/assets/exams/final/fa17finalsolutions.pdf
+sp17final,https://cs161.org/assets/exams/final/sp17final.pdf
+sp17finalsolutions,https://cs161.org/assets/exams/final/sp17finalsolutions.pdf
+fa16final,https://cs161.org/assets/exams/final/fa16final.pdf
+fa16finalsolutions,https://cs161.org/assets/exams/final/fa16finalsolutions.pdf
+sp16final,https://cs161.org/assets/exams/final/sp16final.pdf
+sp16finalsolutions,https://cs161.org/assets/exams/final/sp16finalsolutions.pdf
