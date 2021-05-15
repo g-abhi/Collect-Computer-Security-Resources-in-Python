@@ -1,5 +1,5 @@
 # Collect-Computer-Security-Resources-in-Python
-Writing Python Scripts for Webscraping, Downloading, Archiving, Studying Resources for UC Berkeley's CS 161: Computer Security
+Writing Python Scripts for Webscraping, Downloading, and Archiving study resources for UC Berkeley's CS 161: Computer Security
 
 ## wrote Python Scripts for the following procedures:
 
@@ -8,9 +8,15 @@ Writing Python Scripts for Webscraping, Downloading, Archiving, Studying Resourc
 3) Archive main directory in Google Colab as zip file
 4) Download zip file of course to host machine
 
-5) Self-study course content for foundational understanding of Computer Security
+-> Self-study course content for foundational understanding of Computer Security
 
 ## Tools: 
-Python, Google Colab Jupyter Notebook
+* Python
+* Google Colab Jupyter Notebook
 ## Python Libraries: 
-Beautiful Soup, requests, shutil, csv, urllib.request, os
+* Beautiful Soup
+* requests
+* shutil
+* csv
+* urllib.request
+* os
